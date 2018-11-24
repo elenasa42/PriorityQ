@@ -1,2 +1,3 @@
 # PriorityQueue
-Priority Queues
+Priority Queues are an extension of queues. 
+
