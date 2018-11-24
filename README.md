@@ -9,6 +9,7 @@ Certain properties that priority queues follow:
 
 This priority queue supports the following operations:
 insert(item) : Inserts an item
+
 getMax() : Deletes root element
 
 
