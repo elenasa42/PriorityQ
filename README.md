@@ -7,6 +7,7 @@ Certain properties that priority queues follow:
 - Elements with high priority are dequeued before the ones with lower priority.
 - Elements with the same priority are served according to their order in the queue.
 
+
 This priority queue supports the following operations:
 
 insert(item) : Inserts an item
