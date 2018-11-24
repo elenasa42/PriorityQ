@@ -15,3 +15,4 @@ insert(item) : Inserts an item
 getMax() : Deletes root element
 
 
+This priority queue is implemented using a heap.
